@@ -1,17 +1,17 @@
 {
-    "name": "vitals/hello-composer",
+    "name": "saqibak01/hello-composer",
     "description": "A simple hello world composer package",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Saqib Khan",
-            "email": "saqib.khan@topgearmedia.co.uk"
+            "email": "saqibak01@gmail.com"
         }
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"vitalis\\HelloWorld\\": "src/"}
+        "psr-4": {"saqibak01\\HelloWorld\\": "src/"}
     },
     "require": {}
 }
